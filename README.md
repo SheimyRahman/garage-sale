@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Sheimy's Garage Sale aka Lojinha
 
 You can use the [editor on GitHub](https://github.com/SheimyRahman/garagesale/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
