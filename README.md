@@ -1,13 +1,10 @@
-## Welcome to Sheimy's Garage Sale aka Lojinha
+# Welcome to Sheimy's Garage Sale aka minha Lojinha
 
-You can use the [editor on GitHub](https://github.com/SheimyRahman/garagesale/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Para quem não sabe, estou voltando para Sampa e preciso arrecadar um dindin para conseguir fazer esse movimento! Então nada melhor do que fazer uma garage sale né?! Dito isso, vamos aos itens! \o/
+     - Todos os itens dessa lista se encontram em Porto Alegre - RS e a retirada pode ser combinada comigo mesma!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+=
 ```markdown
 Syntax highlighted code block
 
