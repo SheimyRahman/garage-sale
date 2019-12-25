@@ -2,14 +2,8 @@
 
 ### Para quem não sabe, estou voltando para Sampa e preciso arrecadar um dindin para conseguir fazer esse movimento! Então nada melhor do que fazer uma garage sale né?! \o/
      
-   - Todos os itens dessa lista se encontram em Porto Alegre - RS e a retirada pode ser combinada comigo mesma!\
+   - Todos os itens dessa lista se encontram em Porto Alegre - RS e a retirada pode ser combinada comigo mesma!
    - Este é um projeto experimental, be kind! :)
-
-I am using:
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SheimyRahman/garagesale/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
