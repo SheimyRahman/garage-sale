@@ -4,6 +4,8 @@
      
    - Todos os itens dessa lista se encontram em Porto Alegre - RS e a retirada pode ser combinada comigo mesma!
    - Este é um projeto experimental, be kind! :)
+   
+   Acesse http://SheimyRahman.github.io/garage-sale
 
 ### Support or Contact
 
