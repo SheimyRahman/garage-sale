@@ -1,10 +1,11 @@
 # Welcome to Sheimy's Garage Sale aka minha Lojinha
 
 ### Para quem não sabe, estou voltando para Sampa e preciso arrecadar um dindin para conseguir fazer esse movimento! Então nada melhor do que fazer uma garage sale né?! Dito isso, vamos aos itens! \o/
-     - Todos os itens dessa lista se encontram em Porto Alegre - RS e a retirada pode ser combinada comigo mesma!
+     
+   - Todos os itens dessa lista se encontram em Porto Alegre - RS e a retirada pode ser combinada comigo mesma!
 
 
-=
+
 ```markdown
 Syntax highlighted code block
 
@@ -15,7 +16,12 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Numbered
+1. .[Furadeira com Impacto 600W GOODYEAR (220v) + Kit de Brocas]. 
+(https://photos.app.goo.gl/g7BzYw3mBF6Jt8EEA)
+(https://photos.app.goo.gl/6UJCpGJj7xDUknvD7)
+(https://photos.app.goo.gl/RBpZMYZcnpq87gTX7)
+(https://photos.app.goo.gl/kyUGGhZBeXB2FMrt7).
+
 2. List
 
 **Bold** and _Italic_ and `Code` text
