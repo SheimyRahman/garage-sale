@@ -2,8 +2,36 @@
     {
         "id":"furadeira",
         "title": "Furadeira Com Impacto 600W GOODYEAR + Kit the brocas",
-        "value": null,
-        "img": "/garage-sale/products/furadeira/furadeira.jpg",
+        "value": 50,
+        "img": "/garage-sale/products/furadeira.jpg",
         "vendido": false
     },
+    {
+        "id":"fogao",
+        "title": "Fogao Esmaltec 4 Bocas Agata Glass Branco Bivolt",
+        "value": 150,
+        "img": "/garage-sale/products/fogao.jpg",
+        "vendido": false
+    },
+    {
+        "id":"aspirador",
+        "title": "Aspirador de Pó Electrolux Easybox",
+        "value": 150,
+        "img" : "/garage-sale/products/aspirador.jpg",
+        "vendido": false
+    },
+    {
+        "id":"pratos",
+        "title":"Conjunto de 12 pratos - 6 rasos/ 6 fundos",
+        "value": 40,
+        "img": "/garage-sale/products/pratos.jpg",
+        "vendido": false
+    },
+    {
+        "id":"cama",
+        "title": "Conjunto de Cama mais Colchao de acampamento",
+        "value": 150,
+        "img" : "/garage-sale/products/cama.jpg",
+        "vendido": false
+    }   
 ]
