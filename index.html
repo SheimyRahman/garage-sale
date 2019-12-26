@@ -1,0 +1,59 @@
+<html ng-app="app">
+    <title>Welcome to Sheimy's Garage Sale, aka minha Lojinha</title>
+
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular-resource.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular-route.min.js"></script>
+    <script src="https://code.angularjs.org/1.0.4/angular-sanitize.min.js"></script>
+
+    <script
+            src="https://code.jquery.com/jquery-2.2.4.min.js"
+            integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+            crossorigin="anonymous">
+    </script>
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet"
+          href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+          integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet"
+          href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css"
+          integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r"
+          crossorigin="anonymous">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script
+            src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"
+            integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous">
+    </script>
+
+    <script src="/garage-sale/js/app.js"></script>
+</head>
+<body>
+    <br/>
+    <center>
+        <div class="btn-group">
+            <a href="/garage-sale/#/home" class="btn btn-default">garage-sale</a>
+            <a href="/garage-sale/#/sobre" class="btn btn-default">Sobre</a>
+        </div>
+    </center>
+    <br/><br/>
+    <div class="container">
+        <div ng-view></div>
+    </div>
+    <hr style="width: 100%; color: black; height: 1px; background-color:black;"/>
+    <center>
+    
+        Desenvolvido por <a href="http://SheimyRahman.github.io/garage-sale">SheimyRahman</a> ( <a href="mailto:sheimyrahman@gmail.com">sheimyrahman@gmail.com</a>  ) <br/>
+        Ver contatos em <a href="/garage-sale/#/sobre">sobre</a>
+        
+        <!-- Inspirado (forkado) do projeto Desenvolvido por <a href="http://adamatti.github.io">adamatti</a> ( <a href="mailto:adamatti@gmail.com">adamatti@gmail.com</a>  ) <br/>
+        Ver contatos em <a href="/lojinha/#/sobre">sobre</a> -->
+    </center>
+</body>
+</html>
